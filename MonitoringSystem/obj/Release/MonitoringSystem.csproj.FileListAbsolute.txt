@@ -1,0 +1,16 @@
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Release\MonitoringSystem.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Release\MonitoringSystem.pdb
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Release\office.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Release\office.xml
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Release\MonitoringSystem.AboutForm.resources
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Release\MonitoringSystem.Properties.Resources.resources
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Release\ResGen.read.1.tlog
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Release\ResGen.write.1.tlog
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Release\MonitoringSystem.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Release\MonitoringSystem.pdb
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Release\MonitoringSystem.MainForm.resources
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Release\MonitoringSystem.esriAddIn

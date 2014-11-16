@@ -1,0 +1,16 @@
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.pdb
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.pdb
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.Form1.resources
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\ResGen.read.1.tlog
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\ResGen.write.1.tlog
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\office.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\office.xml
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.Properties.Resources.resources
+D:\Projects\MonitoringSystem\MonitoringSystem\obj\Debug\MonitoringSystem.AboutForm.resources
+D:\Projects\MonitoringSystem\MonitoringSystem\bin\Debug\MonitoringSystem.esriAddIn
